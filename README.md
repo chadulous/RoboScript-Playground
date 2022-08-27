@@ -1,20 +1,20 @@
 # RoboScript Playground
 
-## Actual language ✔️
-* Ability to set maximum grid size ✔️
-* Ability to create a finish line ✔️
-* Ability to create obstacles that block the robot ✔️
-* Ability to turn the robot left or right ✔️
-* Ability to make the robot go forward ✔️
+## Actual language **DONE!**
+* Ability to set maximum grid size **DONE!**
+* Ability to create a finish line **DONE!**
+* Ability to create obstacles that block the robot **DONE!**
+* Ability to turn the robot left or right **DONE!**
+* Ability to make the robot go forward **DONE!**
 
 ## UI
 ### UI.0: Grid
-* Basic Grid ✔️
-* Robot on grid ✔️
-* Ability to move robot on grid ✔️
+* Basic Grid **DONE!**
+* Robot on grid **DONE!**
+* Ability to move robot on grid **DONE!**
 * Obstacles on grid
 * Finish line on grid
-* Port scratch grid to leopard.js ✔️
+* Port scratch grid to leopard.js **DONE!**
 * Port leopard.js to svelte code
 ### UI.1: Code Editor
 * Basic Code Editor
