@@ -18,6 +18,7 @@
 * Port leopard.js to svelte code
 ### UI.1: Code Editor
 * Basic Code Editor
+* Parser and Interpreter error handling
 * Waiting for the user to save code before parsing
 * Run button
 * Ability to save scripts to localStorage for safe keeping
